@@ -5,3 +5,5 @@ hecated
 .env
 coverage.out
 dist/
+bin/
+*.db-wal
