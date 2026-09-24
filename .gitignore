@@ -1,0 +1,7 @@
+hecate
+hecated
+*.db
+*.db-shm
+.env
+coverage.out
+dist/
